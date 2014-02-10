@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'tempfile'
 
 Tempfile.open("baz") do |f|

@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby
+#!/usr/bin/env ruby
 
 #Linuxのコマンドパイプのように動作するサンプル
 
